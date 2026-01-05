@@ -1669,6 +1669,6 @@ Cargo.toml               # thiserror, tempfile (for tests)
 
 <!-- Concise notes from LLM sessions - key decisions, gotchas, Rust learnings -->
 
-| Module | Notes |
-|--------|-------|
-| | |
+| Session | Module | Title | Date | Link |
+|---------|--------|-------|------|------|
+| 1 | 1.1 File Manager | Pre-Design Concepts | 2026-01-05 | [Details](session_notes/01_file_manager_pre_design.md) |
